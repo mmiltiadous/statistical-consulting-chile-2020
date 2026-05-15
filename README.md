@@ -6,7 +6,7 @@ A statistical consulting project, implemented in R, investigating the impact of 
  
 1. Do economic factors (unemployment rate, inflation rate) affect the number of completed suicides?
 2. Do meteorological conditions (temperature, atmospheric pressure, precipitation, humidity) affect the number of completed suicides?
-3. Do these associations differ across age groups, and — for meteorological factors, across geographical regions?
+3. Do these associations differ across age groups, and for meteorological factors, across geographical regions?
    
 ## Dataset
  
